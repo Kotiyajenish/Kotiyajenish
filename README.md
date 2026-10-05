@@ -38,8 +38,10 @@ I actively contribute to the **WordPress open-source project**, including docume
 ### 📫 Connect With Me
 
 * 📧 Email: [jenish.kotiya2000@gmail.com](mailto:jenish.kotiya2000@gmail.com)
-* 💼 LinkedIn: [Jenish Kotiya](https://www.linkedin.com/)
-* 🐙 GitHub: [Kotiyajenish](https://github.com/Kotiyajenish)
+* 📱 Phone: +91 9106685143
+* 💼 LinkedIn: https://www.linkedin.com/in/jenish-kotiya-6914b31b4/
+* 🌐 Portfolio: https://jkporfolio.vercel.app/
+* 🐙 GitHub: https://github.com/Kotiyajenish
 
 ---
 
