@@ -6,15 +6,15 @@ I'm a WordPress Developer with **4 years of experience** in building custom, res
 
 ### 🚀 What I Do
 
-* 🔹 Custom WordPress Theme Development
-* 🔹 Custom WordPress Plugin Development
-* 🔹 Custom Gutenberg Block Development
-* 🔹 WooCommerce Development
-* 🔹 Advanced Custom Fields (ACF)
-* 🔹 PHP, JavaScript, HTML & CSS
-* 🔹 WordPress REST API & AJAX
-* 🔹 Git & GitHub
-* 🔹 Website Performance & Responsive Development
+ 🔹 Custom WordPress Theme Development
+ 🔹 Custom WordPress Plugin Development
+ 🔹 Custom Gutenberg Block Development
+ 🔹 WooCommerce Development
+ 🔹 Advanced Custom Fields (ACF)
+ 🔹 PHP, JavaScript, HTML & CSS
+ 🔹 WordPress REST API & AJAX
+ 🔹 Git & GitHub
+ 🔹 Website Performance & Responsive Development
 
 ### 🛠️ Technologies & Tools
 
